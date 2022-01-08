@@ -7,6 +7,9 @@ Some cool features of this bot include being able to repeat a song a number of t
 One can also view the current queue of music by typing !queue
 
   
+  **note**: 
+  make sure to give your bot perms in discord!!
+  
   below are some videos covering usages of the bot: 
   
   
