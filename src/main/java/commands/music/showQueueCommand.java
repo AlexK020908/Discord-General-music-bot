@@ -43,7 +43,7 @@ public class showQueueCommand implements ServerCommand {
             stringBuilder.append("\n " + count + ". " + a.getInfo().title + " by: " + a.getInfo().author);
         }
         if (queue.isEmpty()) {
-            textChannel.sendMessage("there is not song in the queue right now").queue();
+            textChannel.sendMessage("there is no song in the queue right now").queue();
 
 
 
