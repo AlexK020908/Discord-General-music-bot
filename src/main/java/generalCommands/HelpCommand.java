@@ -18,7 +18,6 @@ public class HelpCommand implements ServerCommand {
                 "\n**!VALORANT @user** to notify users to hop on and play valorant.\n**!chegg <link>** to load answer from web" +
                 "\n**!kick @user** to kick user" +
                 "\n**!ban @user** to ban user" +
-                "\n**!susMSG @user** to send you know what ;)" +
                 "\n **!play song name**" +
                 "\n **!stop** to stop playing the current song" +
                 "\n **!resume** to resume the paused song" +
