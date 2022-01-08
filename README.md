@@ -14,3 +14,7 @@ One can also view the current queue of music by typing !queue
   
   
   
+
+
+https://user-images.githubusercontent.com/96352305/148631511-a64879ae-ca00-4e03-bbc1-ad4eceee6e1d.mp4
+
