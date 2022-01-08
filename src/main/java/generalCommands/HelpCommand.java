@@ -14,8 +14,8 @@ public class HelpCommand implements ServerCommand {
         EmbedBuilder embedBuilder = new EmbedBuilder();
         embedBuilder.setColor(0xc8f7c5);
         embedBuilder.setThumbnail(member.getUser().getAvatarUrl());
-        embedBuilder.setDescription("**!bot** - to view info about bot\n**!playing** - to see what I like playing " +
-                "\n**!VALORANT @user** to notify users to hop on and play valorant.\n**!chegg <link>** to load answer from web" +
+        embedBuilder.setDescription("**!bot** - to view info about bot\n" +
+                "\n**!VALORANT @user** to notify users to hop on and play valorant." +
                 "\n**!kick @user** to kick user" +
                 "\n**!ban @user** to ban user" +
                 "\n **!play song name**" +
