@@ -23,7 +23,7 @@ public class bot extends ListenerAdapter{
         private static JDA jda;
 
         public static void main(String[] args) {
-            jdaBuilder = JDABuilder.createDefault("OTE1Nzc3Mjc2MjQ1ODQ0MDcw.YagiDA.xDFt-krWdeBjjNduOHRgVAIm9Jo").enableCache(CacheFlag.VOICE_STATE);
+            jdaBuilder = JDABuilder.createDefault("input key here").enableCache(CacheFlag.VOICE_STATE);
             jdaBuilder.setStatus(OnlineStatus.DO_NOT_DISTURB);
             jdaBuilder.setActivity(Activity.playing("music, !help to view help pannel"));
             jdaBuilder.addEventListeners(new bot());
